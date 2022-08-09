@@ -141,7 +141,7 @@ body {
     line-height: 1.36;
 }
 
-.footer {
+.foot {
     background-color: #2F303A;
 }
 
@@ -149,7 +149,7 @@ body {
     color: var(--primary-white-color);
 }
 
-.address {
+.address-link {
     font-style: normal;
     /*исходный текст был курсивным, поэтому поставила font-style: normal */
     font-size: 14px;
